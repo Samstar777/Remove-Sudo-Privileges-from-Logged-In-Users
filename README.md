@@ -1,0 +1,1 @@
+# Remove-Sudo-Privileges-from-Logged-In-Users
