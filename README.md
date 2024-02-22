@@ -22,7 +22,7 @@ This Bash script is designed to remove sudo privileges from the current user on 
 Salim Ukani AKA Samstar777
 
 ### License:
-This script is licensed under the [LICENSE_NAME](LICENSE) license. See the [LICENSE](LICENSE) file for more details.
+This script is licensed under the [MIT](LICENSE) license. See the [LICENSE](LICENSE) file for more details.
 
 ### Contributions:
 Contributions are welcome! Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
