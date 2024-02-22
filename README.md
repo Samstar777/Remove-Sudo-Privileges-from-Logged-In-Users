@@ -13,6 +13,7 @@ This Bash script is designed to remove sudo privileges from the current user on 
 2. Make sure the script is executable (`chmod +x remove_sudo_privileges.sh`).
 3. Run the script with root privileges (`sudo ./remove_sudo_privileges.sh`).
 4. Follow the on-screen prompts and review the generated logs for any errors.
+5. Read *Wiki* on how to use this script in JAMF
 
 ### Compatibility:
 - Compatible with Unix-based systems.
